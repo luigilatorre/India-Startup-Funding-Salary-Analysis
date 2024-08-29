@@ -63,3 +63,4 @@ The analysis reveals interesting insights about the Indian startup ecosystem, in
 - Cities with the highest average ratings for software professionals
 - The relationship between average salaries and total funding received in different cities
 
+All calculations and analyses were performed in the file [startup-funding-analysis-notebook.py](/startup-funding-analysis-notebook.py).
