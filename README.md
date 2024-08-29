@@ -14,7 +14,7 @@ indian-startups-funding-analysis/
 │   └── Software Professionals Salary.csv
 │
 ├── notebooks/
-│   └── startup_funding_analysis.ipynb
+│   └── startup-funding-analysis-notebook.py
 │
 └── README.md
 ```
@@ -51,7 +51,7 @@ To run this analysis on your local machine:
 
 1. Clone this repository
 2. Install the required libraries (pip install pandas matplotlib seaborn)
-3. Open the `startup_funding_analysis.ipynb` notebook in Jupyter Lab or Jupyter Notebook
+3. Open the `startup-funding-analysis-notebook.py` script in your preferred Python IDE or code editor
 4. Run the cells in order to reproduce the analysis
 
 ## Results
