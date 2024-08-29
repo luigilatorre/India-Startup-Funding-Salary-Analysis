@@ -5,7 +5,7 @@ This repository contains an analysis of Indian startup funding data from 2019 to
 ## Project Structure
 
 ```
-indian-startups-funding-analysis/
+python-analysis-2/
 │
 ├── data/
 │   ├── startup_funding2019.csv
@@ -15,7 +15,6 @@ indian-startups-funding-analysis/
 │
 ├── notebooks/
 │   └── startup-funding-analysis-notebook.py
-│
 └── README.md
 ```
 
