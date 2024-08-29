@@ -21,7 +21,7 @@ indian-startups-funding-analysis/
 
 ## Analysis Overview
 
-The analysis is conducted in the `startup_funding_analysis.py` notebook and covers the following key areas:
+The analysis is conducted in the [startup-funding-analysis-notebook.py](/notebooks/startup-funding-analysis-notebook.py) notebook and covers the following key areas:
 
 1. Data Loading and Preprocessing
 2. Funding Trends Analysis
@@ -63,4 +63,3 @@ The analysis reveals interesting insights about the Indian startup ecosystem, in
 - Cities with the highest average ratings for software professionals
 - The relationship between average salaries and total funding received in different cities
 
-All calculations and analyses were performed in the file [startup-funding-analysis-notebook.py](/notebooks/startup-funding-analysis-notebook.py).
