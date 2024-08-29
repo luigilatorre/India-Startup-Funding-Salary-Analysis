@@ -12,7 +12,6 @@ python-analysis-2/
 │   ├── startup_funding2020.csv
 │   ├── startup_funding2021.csv
 │   └── Software Professionals Salary.csv
-│
 ├── notebooks/
 │   └── startup-funding-analysis-notebook.py
 └── README.md
